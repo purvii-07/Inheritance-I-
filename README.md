@@ -1,4 +1,4 @@
-# Inheritance-I-
+# Inheritance-II-
 #Design a class Item having a members item_no and Item_name.Create a derived class Price having members quantity and 
 # unit_price. Define appropriate constructor in both the classes to intialize the members. Calculate total price and display
 
